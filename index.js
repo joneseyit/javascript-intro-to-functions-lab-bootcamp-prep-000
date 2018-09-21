@@ -9,4 +9,4 @@ function whisper(sound){
   return sound.toLowerCase()
 }
 
-function 
+function logShoutString
