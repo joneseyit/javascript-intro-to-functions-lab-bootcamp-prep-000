@@ -51,11 +51,11 @@ function whisper(sound){
 }
 
 function LogShout(string){
-  console.log(string.toUpperCase())
+  return console.log(string.toUpperCase())
 }
 
 function LogWhisper(string){
-  console.log(string.toLowerCase())
+  return console.log(string.toLowerCase())
 }
 
 function sayHiToGrandma(string){
