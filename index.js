@@ -50,12 +50,12 @@ function whisper(sound){
   return sound.toLowerCase()
 }
 
-function LogShout(string){
-  return console.log(string.toUpperCase())
+function logShout(string){
+   console.log(string.toUpperCase())
 }
 
-function LogWhisper(string){
-  return console.log(string.toLowerCase())
+function logWhisper(string){
+   console.log(string.toLowerCase())
 }
 
 function sayHiToGrandma(string){
